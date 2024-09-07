@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<testsuites>
+  <testsuite name="auth/basic/via auth/Basic Auth 200" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.003">
+    <testcase name="Test suite has no errors" status="fail" time="0.003">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="auth/basic/via auth/Basic Auth 401" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="auth/basic/via script/Basic Auth 200" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.010">
+    <testcase name="Test suite has no errors" status="fail" time="0.010">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="auth/basic/via script/Basic Auth 401" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.003">
+    <testcase name="Test suite has no errors" status="fail" time="0.003">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="auth/bearer/via auth/Bearer Auth 200" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="auth/bearer/via headers/Bearer Auth 200" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="auth/cookie/Login" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="auth/cookie/Check" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="auth/inherit auth/inherit Bearer Auth 200" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="echo/echo bom json" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="echo/echo json" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.003">
+    <testcase name="Test suite has no errors" status="fail" time="0.003">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="echo/echo plaintext" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="echo/echo xml parsed" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="echo/echo xml raw" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="graphql/spacex" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="preview/html/bruno" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.002">
+    <testcase name="Test suite has no errors" status="fail" time="0.002">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="preview/image/bruno" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="redirects/Disable Redirect" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.003">
+    <testcase name="Test suite has no errors" status="fail" time="0.003">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="redirects/Test Redirect" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/bru/getEnvName" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.002">
+    <testcase name="Test suite has no errors" status="fail" time="0.002">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/bru/getEnvVar" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/bru/setEnvVar" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/bru/setVar" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/bru/getVar" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/bru/getProcessEnv" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/req/getUrl" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/req/setUrl" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.003">
+    <testcase name="Test suite has no errors" status="fail" time="0.003">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/req/getMethod" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/req/setMethod" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.002">
+    <testcase name="Test suite has no errors" status="fail" time="0.002">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/req/getHeader" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/req/setHeader" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.002">
+    <testcase name="Test suite has no errors" status="fail" time="0.002">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/req/getHeaders" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/req/setHeaders" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.003">
+    <testcase name="Test suite has no errors" status="fail" time="0.003">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/req/getBody" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/req/setBody" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.002">
+    <testcase name="Test suite has no errors" status="fail" time="0.002">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/res/getStatus" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/res/getHeader" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/res/getHeaders" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/res/getBody" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/api/res/getResponseTime" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/inbuilt modules/axios/axios-pre-req-script" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.093">
+    <testcase name="Test suite has no errors" status="fail" time="0.093">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/inbuilt modules/crypto-js/crypto-js-pre-request-script" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.006">
+    <testcase name="Test suite has no errors" status="fail" time="0.006">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/inbuilt modules/nanoid/nanoid" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.003">
+    <testcase name="Test suite has no errors" status="fail" time="0.003">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/inbuilt modules/uuid/uuid" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.002">
+    <testcase name="Test suite has no errors" status="fail" time="0.002">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/js/setTimeout" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="1.006">
+    <testcase name="Test suite has no errors" status="fail" time="1.006">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/local modules/sum" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.013">
+    <testcase name="Test suite has no errors" status="fail" time="0.013">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/local modules/sum (without js extn)" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.009">
+    <testcase name="Test suite has no errors" status="fail" time="0.009">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="scripting/npm modules/fakerjs" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.005">
+    <testcase name="Test suite has no errors" status="fail" time="0.005">
+      <error type="error" message="Cannot find module '@faker-js/faker'"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="string interpolation/missing values" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.002">
+    <testcase name="Test suite has no errors" status="fail" time="0.002">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="string interpolation/env vars" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="string interpolation/runtime vars" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.005">
+    <testcase name="Test suite has no errors" status="fail" time="0.005">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="string interpolation/process env vars" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.002">
+    <testcase name="Test suite has no errors" status="fail" time="0.002">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+  <testsuite name="ping" errors="1" failures="0" skipped="0" tests="1" timestamp="2024-08-21T06:44:38.902" hostname="Anoops-MacBook-Air.local" time="0.001">
+    <testcase name="Test suite has no errors" status="fail" time="0.001">
+      <error type="error" message="Invalid URL"/>
+    </testcase>
+  </testsuite>
+</testsuites>
