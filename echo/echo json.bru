@@ -25,8 +25,14 @@ auth:bearer {
 
 body:json {
   {
-    "hello": "bruno"
+    "source": "{{source}}",
+    "destination": "{{destination}}"
   }
+}
+
+vars:pre-request {
+  source: LAS
+  destination: AUS
 }
 
 assert {
