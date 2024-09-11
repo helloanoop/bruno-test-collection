@@ -15,7 +15,15 @@ auth:basic {
   password: {{basic_auth_password}}
 }
 
+vars:post-response {
+  hello: res.body.message
+}
+
 assert {
   res.status: 200
   res.body.message: Authentication successful
+}
+
+script:post-response {
+  bru.setVar("token", res.body.message);
 }

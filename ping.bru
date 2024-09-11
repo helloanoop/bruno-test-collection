@@ -4,8 +4,12 @@ meta {
   seq: 1
 }
 
-get {
-  url: {{host}}/ping
+post {
+  url: {{host}}/ping?hotelId=2001
   body: none
   auth: none
+}
+
+params:query {
+  hotelId: 2001
 }
